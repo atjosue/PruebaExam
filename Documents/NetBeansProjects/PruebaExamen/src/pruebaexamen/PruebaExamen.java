@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
  */
 public class PruebaExamen {
 
-    
+    //que pedo se actualizo??
     public static void main(String[] args) {
         
         String numos ;
