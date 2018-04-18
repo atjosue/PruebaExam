@@ -19,7 +19,7 @@ public class PruebaExamen {
     
     public static void main(String[] args) {
         
-        String num ;
+        String numos ;
         int nombres[] = new int[4];
         
         
