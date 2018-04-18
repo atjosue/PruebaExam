@@ -17,6 +17,7 @@ import javax.swing.JOptionPane;
 public class PruebaExamen {
 
     //que pedo se actualizo??
+    //si culero ahora crea otro proyecto maje simula que vos estas haciendo el otro ejercicio este es el mio:V
     public static void main(String[] args) {
         
         String numos ;
